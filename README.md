@@ -2,5 +2,5 @@
 
 some short coding recipes/templates
 
-![Screenshot](plots/matplotlib_basic.png)
-![Screenshot](plots/matplotlib_baic_animation.gif)
+![Screenshot](matplotlib_basic_recipes_plots/matplotlib_basic.png)
+![Screenshot](matplotlib_basic_recipes/plots/matplotlib_basic_animation.gif)
